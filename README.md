@@ -35,6 +35,7 @@
 ### Answer the Questions
 
 1. If all people were ethical in all their interactions, which centerpiece of modern society would be obviated?
+   The Law insitution.
 
 2. Ethics creates a dichotomy between the comfort of the individual and the longevity, or mere existance, of the group. Give an example of an extreme case from recent history that favored the group to the detriment of the individual. How would you embed the principle of balance of the interests of the individual and the group into the ethical code itself? Be specific.
 
@@ -46,15 +47,33 @@ _Note: Class activities are group but individual submissions are required for gr
  
 1. In a small group up to 5 people, imagine you are a small _tech_ startup. Then:
    1. List the group members below.
+      a. Dwight C. 
+      b. Denika C.
+      c. 
    2. Pick a president and write their name below.
+      a. Dwight C. 
    3. Describe your technical innovation below.
+   Facial Recognition Home Security.
    
 2. Describe the ways your innovation, if realized, would affect society. 
    1. Below, list at least 3 adverse effects (including but not limited to _misuse_) of the innovation and anticipatory actions and mechanisms you can embed that
+      a. System can be misused to Racially profile against people of a certain race or ethnic group.
+      b. System could enable entry and exit of traffickers/abusers to contain people within. 
+      c. 
    2. Below, give an _explicit_ definition of the fine line between the benefit and detriment of your innovation at two moments of its lifetime: (i) immediately upon launch; (ii) after enough time for it to be absorbed into everyday life.
+      i. The security system allows Authorities to integrate the technology to work against thiefs with their facial recognition for tracking and implementing law, work with early incarceration rights for minors that are caught commiting crimes. 
+      ii. Invasive security might overwhelm neighbors in an apartment complex that can cause tension between the user and those being recorded. 
    
 3. Your small "[band of merry psychopaths](#the-band)" are the pivotal social kernel that can define the proper use of your technology. You have to start early, and hold the line. How are you going to ensure that you stay the course? 
    1. Below, define a Code of Ethics (aka Code of Conduct) for your organization that will safeguard your original intentions and values while not stiflying innovation as your startup grows and matures. Your code should have _at most 9 points_.
+      Code of ethics is a guide for their principles designed to continue developing and working with the technology with honesty and integrity. This code of ethics works to consider, protect, and maintain the data of the user. 
+       a. Data is large intangible value, it is to remain confidential.
+       b. Program dedicated to facial security recognition to remain in hands of employed programmers. 
+       c. Selling of technology to people of heavy criminal records, prohibited.
+       d. Technology is to remain as one trademark, no trade/exchange or data with second carrier allowed.
+       e. Data transfer to authorities, co-users, or anyone under liable control must be consented by original user. 
+       f. Any other use of tech other than perimeter film must be approved by the chair. 
+       g. Data regarding any criminal activity by user must automatically be transfered to authorities, once examined by the chair. 
 
 4. **(BONUS)** Ethical codes are vulnerable to _hostile takeover_ of the adopting organization. Pick one person from your group and let them _remove 3 points_ from your Code, at their discretion, to be the most damaging overall. 
    1. Below, discuss how and why the Code has been weakened.
